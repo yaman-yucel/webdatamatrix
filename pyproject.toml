@@ -1,0 +1,10 @@
+[project]
+name = "webdatamatrix"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=6.10.0",
+    "pillow>=12.2.0",
+    "zxing-cpp>=3.0.0",
+]
