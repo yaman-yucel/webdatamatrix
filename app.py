@@ -91,4 +91,4 @@ with gr.Blocks(title="Data Matrix Scanner") as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()

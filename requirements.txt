@@ -1,0 +1,3 @@
+gradio==6.10.0
+zxing-cpp==3.0.0
+Pillow==12.2.0
